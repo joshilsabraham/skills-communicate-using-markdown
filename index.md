@@ -8,3 +8,7 @@
 ```python
 print("Hello World!")
 ```
+# <h2> List
+- [ ] Item 1
+- [ ] Item 2
+- [ ] Item 3
